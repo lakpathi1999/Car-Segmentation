@@ -1,4 +1,4 @@
-# Car-Segmentation: Segmentation of various outer components of car like body, windows, lights and wheels using Unet architecture.
+Car-Segmentation: Segmentation of various outer components of car like body, windows, lights and wheels using Unet architecture.
 
 Dataset: Colllected the dataset from kaggle and it contains 5 classes.
 
